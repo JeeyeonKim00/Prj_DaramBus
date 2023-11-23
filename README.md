@@ -29,8 +29,7 @@
 <br>
 
 **[진행 과정]**
-  ![Untitled](./img/daram_process.png)
-
+![Alt text](image.png)
 <br> 
 
 ## 🎁 프로젝트를 통해 얻은 것, 느낀점
