@@ -29,7 +29,7 @@
 <br>
 
 **[진행 과정]**
-  ![Untitled](img\daram_process.png)
+  ![Untitled](./img/daram_process.png)
 
 <br> 
 
